@@ -25,38 +25,6 @@ import pomode from '../src/Images/pomode.jpg';
 import vitaminC from '../src/Images/vitaminC.jpg';
 import alpha from '../src/Images/alpha.jpg';
 import eyepatch from '../src/Images/eyepatch.jpg';
-
-import productImg02 from "../src/Images/double-sofa-02.png";
-import productImg03 from "../src/Images/double-sofa-03.png";
-
-import productImg04 from "../src/Images/single-sofa-01.jpg";
-import productImg05 from "../src/Images/single-sofa-02.jpg";
-import productImg06 from "../src/Images/single-sofa-03.jpg";
-import productImg007 from "../src/Images/single-sofa-04.png";
-
-import productImg07 from "../src/Images/arm-chair-01.jpg";
-import productImg08 from "../src/Images/arm-chair-02.jpg";
-import productImg09 from "../src/Images/arm-chair-03.jpg";
-import productImg10 from "../src/Images/arm-chair-01.jpg";
-
-import phone01 from "../src/Images/phone-01.jpg";
-import phone02 from "../src/Images/phone-02.jpg";
-import phone03 from "../src/Images/phone-03.png";
-import phone04 from "../src/Images/phone-04.jpg";
-import phone05 from "../src/Images/phone-05.jpg";
-import phone06 from "../src/Images/phone-06.jpg";
-import phone08 from "../src/Images/phone-08.png";
-
-import watch01 from "../src/Images/watch-01.jpg";
-import watch02 from "../src/Images/watch-02.jpg";
-import watch03 from "../src/Images/watch-03.jpg";
-import watch04 from "../src/Images/watch-04.jpg";
-
-import wireless01 from "../src/Images/wireless-01.png";
-import wireless02 from "../src/Images/wireless-02.png";
-import wireless03 from "../src/Images/wireless-03.png";
-import wireless04 from "../src/Images/wireless-04.png";
-
 import Facecare from "../src/Images/Facecare.jpg";
 import Bodycare from "../src/Images/Bodycare.jpg";
 import Haircare from "../src/Images/Haircare.jpg";
