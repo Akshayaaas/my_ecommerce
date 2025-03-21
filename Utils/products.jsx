@@ -18,7 +18,7 @@ import acnekitsnl from '../src/Images/acnekitsnl.jpg';
 import moisturizer from '../src/Images/moisturizer.jpg';
 import benzac2 from '../src/Images/benzac2.jpg';
 import tretinoin from '../src/Images/tretinoin.jpg';
-import hyloronic from '../src/Images/hyloronic.jpg';
+import hyloronic from '../src/Images/Hyloronic.jpg';
 import eyeoil from '../src/Images/eyeoil.jpg';
 import ahabha  from '../src/Images/ahabha.jpg';
 import pomode from '../src/Images/pomode.jpg';
