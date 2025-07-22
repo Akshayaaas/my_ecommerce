@@ -73,6 +73,8 @@ button.add {
     align-items: center;
     font-size: 25px;
     border-radius: 50%;
+    color: black;
+   font-size: smaller;
 }
 
 .product-like {

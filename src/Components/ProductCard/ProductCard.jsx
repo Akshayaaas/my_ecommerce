@@ -6,6 +6,8 @@ import { toast } from "react-toastify";
 import { useDispatch } from "react-redux";
 import { addToCart } from '../../App/Features/Cart/cartSlice';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import { FaCartPlus } from "react-icons/fa6";
+
 
 const ProductCard = ({ title, productItem }) => {
   const dispatch = useDispatch();
@@ -48,7 +50,7 @@ const ProductCard = ({ title, productItem }) => {
             className="add"
             onClick={() => handelAdd(productItem)}
           >
-            <ion-icon name="add"></ion-icon>
+            <FaCartPlus />
           </button>
         </div>
       </div>

@@ -12,7 +12,8 @@ const ProductDetails = ({ selectedProduct }) => {
 
     const [quantity, setQuantity] = useState(1);
     const handleQuantityChange = (e) => {
-      setQuantity(e.target.value);
+      const value = parseInt(e.target.value)||1;
+      setQuantity(value);
     };
     const handelAdd = (selectedProduct, quantity) => {
       dispatch(addToCart({ product: selectedProduct, num: quantity }));
